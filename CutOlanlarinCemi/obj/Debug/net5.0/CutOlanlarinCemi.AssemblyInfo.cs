@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CutOlanlarinCemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84073d4cd8a87fcbadafb05a77a687430e410d25")]
 [assembly: System.Reflection.AssemblyProductAttribute("CutOlanlarinCemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CutOlanlarinCemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -90,6 +90,6 @@ class MainClass
 
         Console.WriteLine("Tek ededlerin sayi: " + tekEded);
         #endregion
-
+        //DEYISIKLIK EDILDI
     }
 }
